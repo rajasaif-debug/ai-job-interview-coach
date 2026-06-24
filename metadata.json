@@ -1,0 +1,6 @@
+{
+  "name": "AI Job Interview Coach",
+  "description": "An AI-powered job interview coach with speech recognition, CV analysis, and detailed feedback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
